@@ -14,6 +14,6 @@ In this programming exercise, you’ll get experience with some of the algorithm
 
 1. implementation of `breadth_first_search` in search.py. 
 1. implementation of `depth_first_search` in search.py. 
-1. implementation of `astar_search` in search.py. Hint: see the implementations of `uniform_cost_search` and `greedy_best_first_search`.
+1. implementation of `astar_search`  `uniform_cost_search` and `greedy_best_first_search`.
 
 
