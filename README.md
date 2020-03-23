@@ -1,7 +1,6 @@
 
 
 
-In this programming exercise, you’ll get experience with some of the algorithms discussed . You are provided several files:
 
 * [search.py](search.py) contains the search algorithms and necessary data structures.
 * [problem.py](problem.py) contains the definition of a few problems, such as N-Queens, 8-Puzzle, and Travel.
